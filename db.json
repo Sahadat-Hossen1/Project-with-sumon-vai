@@ -1,0 +1,49 @@
+{
+    "product":[
+        {
+            "id":1,
+             "image":"https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-228x228.webp",
+             "title":"Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6 FHD Laptop Abyss Blue",
+             "details":[
+                "Processor: AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)","Ram: 8GB LPDDR5-5500, Storage: 512GB M.2 2242 PCIe 4.0x4 NVMe SSD","Display: 15.6 FHD (1920x1080) TN 250nits Anti-glare","Features: Privacy Shutter, Wi-Fi 6, Type-C, Military Grade"],
+                "price":"90000"
+
+        },
+        {
+            "id":2,
+             "image":"https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-228x228.webp",
+             "title":"Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6 FHD Laptop Abyss Blue",
+             "details":[
+                "Processor: AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)","Ram: 8GB LPDDR5-5500, Storage: 512GB M.2 2242 PCIe 4.0x4 NVMe SSD","Display: 15.6 FHD (1920x1080) TN 250nits Anti-glare","Features: Privacy Shutter, Wi-Fi 6, Type-C, Military Grade"],
+                "price":"90000"
+
+        },
+        {
+            "id":3,
+             "image":"https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-228x228.webp",
+             "title":"Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6 FHD Laptop Abyss Blue",
+             "details":[
+                "Processor: AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)","Ram: 8GB LPDDR5-5500, Storage: 512GB M.2 2242 PCIe 4.0x4 NVMe SSD","Display: 15.6 FHD (1920x1080) TN 250nits Anti-glare","Features: Privacy Shutter, Wi-Fi 6, Type-C, Military Grade"],
+                "price":"90000"
+
+        },
+        {
+            "id":4,
+             "image":"https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-228x228.webp",
+             "title":"Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6 FHD Laptop Abyss Blue",
+             "details":[
+                "Processor: AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)","Ram: 8GB LPDDR5-5500, Storage: 512GB M.2 2242 PCIe 4.0x4 NVMe SSD","Display: 15.6 FHD (1920x1080) TN 250nits Anti-glare","Features: Privacy Shutter, Wi-Fi 6, Type-C, Military Grade"],
+                "price":"90000"
+
+        },
+        {
+            "id":5,
+             "image":"https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-228x228.webp",
+             "title":"Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6 FHD Laptop Abyss Blue",
+             "details":[
+                "Processor: AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)","Ram: 8GB LPDDR5-5500, Storage: 512GB M.2 2242 PCIe 4.0x4 NVMe SSD","Display: 15.6 FHD (1920x1080) TN 250nits Anti-glare","Features: Privacy Shutter, Wi-Fi 6, Type-C, Military Grade"],
+                "price":"90000"
+
+        }
+    ]
+}
