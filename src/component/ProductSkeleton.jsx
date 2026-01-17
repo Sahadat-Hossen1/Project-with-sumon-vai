@@ -14,7 +14,7 @@ export default function ProductSkeletonList() {
 
  function ProductSkeleton() {
   return (
-    <div className="w-72 rounded-2xl border border-gray-200 p-4 shadow animate-pulse">
+    <div className="w-full rounded-2xl border border-gray-200 p-4 shadow animate-pulse">
       
       {/* Image skeleton */}
       <div className="h-40 w-full rounded-xl bg-gray-300" />

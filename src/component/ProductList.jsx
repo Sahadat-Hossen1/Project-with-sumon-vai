@@ -53,7 +53,7 @@ export default function ProductList() {
     content = (
       <div className="grid grid-cols-4 gap-8 p-4">
         {data.map((product) => (
-          <ProductItem  key={product.id}></ProductItem>
+          <ProductItem product={product}  key={product.id}></ProductItem>
         ))}
       </div>
     );
