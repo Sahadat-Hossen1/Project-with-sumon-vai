@@ -1,9 +1,1 @@
-loading component thik korte hobe .
-loading 
-
-
-
-
-
-
-########
+shoping cart a click korle modal open hobe and close(x) button a click korle hidden hobe 

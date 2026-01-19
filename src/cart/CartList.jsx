@@ -1,12 +1,12 @@
 import React, { useEffect, useReducer } from "react";
 import CartReducer, { initialState } from "../reducers/Cart";
-import { getProducts } from "../api_service/Product";
 import Actions from "../Actions";
 import EndPoints from "../api_service/EndPoints";
 import ProductSkeletonList from "../component/ProductSkeleton";
 import ErrorCart from "../component/ErrorCart";
 import NoProductFound from "../component/NoProductFound";
 import CartItem from "./CartItem";
+import { getCarts } from "../api_service/Cart";
 
 export default function CartList() {
   const [state, dispatch] = useReducer(CartReducer, initialState);
@@ -19,7 +19,7 @@ export default function CartList() {
         type: Actions.Cart.DATA_FETCHING,
       });
       try {
-        const data = await getProducts(EndPoints.CARTS);
+        const data = await getCarts(EndPoints.CARTS);
         // console.log(data);
 
         dispatch({
@@ -37,7 +37,7 @@ export default function CartList() {
         });
       }
     })();
-    console.log(state);
+    // console.log(state);
   }, []);
 
   let content = null;
